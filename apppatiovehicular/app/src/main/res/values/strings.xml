@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">GRSystems</string>
+    <string name="btn_camara">Camara</string>
+    <string name="item1">Scaner</string>
+    <string name="item2">Generar QR</string>
+    <string name="item3">Coordenadas</string>
+    <string name="item4">Reconocimiento Facial</string>
+    <string name="item5">Crear Data Base</string>
+    <string name="item6">Registro</string>
+    <string name="item7">Contactos</string>
+    <string name="main">Guardar Imagen</string>
+    <string name="itemmapa">Mapa</string>
+    <string name="itemrutas">Rutas</string>
+    <string name="settings">Configuraciones</string>
+    <string name="switchTema">Tema</string>
+    <string name="btnscan">Scan</string>
+    <string name="txtresultadoscan"></string>
+    <string name="txtDatosQr"></string>
+    <string name="btnGenerQr">Generar QR</string>
+    <string name="qrcode"></string>
+    <string name="txtLongitud"></string>
+    <string name="txtLatitud"></string>
+    <string name="btnCrearDB">Crear Data Base</string>
+    <string name="btnCancularRuta">Calcula Ruta</string>
+
+    <string name="hintNombre">Nombre:</string>
+    <string name="hintTelefono">Telefono:</string>
+    <string name="hintcorreoElectronico">Correo Electronico:</string>
+    <string name="btnGuardar">Guardar Registro</string>
+
+
+</resources>

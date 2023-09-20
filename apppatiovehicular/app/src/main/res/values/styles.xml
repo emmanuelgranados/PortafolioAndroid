@@ -1,0 +1,7 @@
+<resources>
+    <style name="MyAppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">#0000FF</item>
+        <item name="colorPrimaryDark">#D81B60</item>
+        <item name="colorAccent">#536DFE</item>
+    </style>
+</resources>
